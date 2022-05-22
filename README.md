@@ -10,4 +10,6 @@ Sample website with plenty of files for demos
 
 Add more context to this readme file
 
-##Deployment
+## Deployment
+
+Using git and github
