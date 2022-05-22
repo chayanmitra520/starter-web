@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chayan Mitra	IBM L3 Dev 		chayanmitra520@gmail.com
 
 # THANKS
 
