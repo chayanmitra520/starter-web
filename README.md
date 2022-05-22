@@ -13,3 +13,7 @@ Add more context to this readme file
 ## Deployment
 
 Using git and github
+
+### COPYRIGHT
+
+2022 Git Training
