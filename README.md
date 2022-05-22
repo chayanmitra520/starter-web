@@ -14,6 +14,8 @@ Add more context to this readme file
 
 Using git and github
 
+Please fork this repo and issue pull request for review.
+
 ### COPYRIGHT
 
 2022 Git Training
